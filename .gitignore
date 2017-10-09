@@ -1,0 +1,4 @@
+/target/
+/test.db/
+/dependency-reduced-pom.xml
+/derby.log

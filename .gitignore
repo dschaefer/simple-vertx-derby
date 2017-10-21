@@ -2,3 +2,4 @@
 /test.db/
 /dependency-reduced-pom.xml
 /derby.log
+/target/
